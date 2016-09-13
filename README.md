@@ -1,4 +1,6 @@
 # Fed24x 1.1.0
+www.marcosmenezes/fed24x
+
 Script de otimização para remover e instalar programas.
 Utilizando a linguagem PHP o proposito deste script é automatizar a remoção e instalação de novos programas.
 
